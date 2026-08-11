@@ -1,0 +1,44 @@
+{
+  "name": "Bank Loan Modern",
+  "dataColors": [
+    "#2563EB",
+    "#0F766E",
+    "#F59E0B",
+    "#DC2626",
+    "#7C3AED",
+    "#0891B2",
+    "#4F46E5",
+    "#059669"
+  ],
+  "background": "#F7F8FC",
+  "foreground": "#1F2937",
+  "tableAccent": "#2563EB",
+  "good": "#0F766E",
+  "neutral": "#64748B",
+  "bad": "#DC2626",
+  "maximum": "#2563EB",
+  "center": "#F59E0B",
+  "minimum": "#DC2626",
+  "textClasses": {
+    "callout": {
+      "fontFace": "Segoe UI Semibold",
+      "fontSize": 28,
+      "color": "#111827"
+    },
+    "title": {
+      "fontFace": "Segoe UI Semibold",
+      "fontSize": 12,
+      "color": "#334155"
+    },
+    "header": {
+      "fontFace": "Segoe UI Semibold",
+      "fontSize": 12,
+      "color": "#334155"
+    },
+    "label": {
+      "fontFace": "Segoe UI",
+      "fontSize": 10,
+      "color": "#475569"
+    }
+  }
+}
