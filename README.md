@@ -53,7 +53,6 @@ The report provides a three-page view of the lending portfolio: Summary, Overvie
 | `Bank Loan.pbix` | Interactive Power BI report |
 | `Bank Loan.sql` | KPI and period-comparison SQL queries |
 | `financial_loan.csv` | Loan-level analysis dataset |
-| `Query Doc.docx` | Supporting query documentation |
 | `bank-loan-modern-theme.json` | Custom Power BI theme |
 | `powerbi-ui-final.png` | Dashboard preview |
 
