@@ -1,0 +1,20 @@
+.env
+.env.*
+!.env.example
+
+# Power BI local state and temporary files
+**/.pbi/localSettings.json
+**/.pbi/editorSettings.json
+**/.pbi/cache.abf
+*.bak
+*_backup_*
+~$*
+Thumbs.db
+.DS_Store
+
+# Redundant Power BI setup captures kept locally
+powerbi-restored.png
+powerbi-theme-menu.png
+powerbi-view-open.png
+powerbi-view-ribbon.png
+powerbi-window.png
